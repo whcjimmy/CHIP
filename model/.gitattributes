@@ -1,0 +1,7 @@
+c10_vgg11_8959.h5 filter=lfs diff=lfs merge=lfs -text
+input_c100.h5 filter=lfs diff=lfs merge=lfs -text
+c100_vgg16_7055.h5 filter=lfs diff=lfs merge=lfs -text
+c10_r18_9528.h5 filter=lfs diff=lfs merge=lfs -text
+c10_rn20_9264.h5 filter=lfs diff=lfs merge=lfs -text
+c10_rn32_9218.h5 filter=lfs diff=lfs merge=lfs -text
+input_c10.h5 filter=lfs diff=lfs merge=lfs -text
