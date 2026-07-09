@@ -58,7 +58,7 @@ All programs require one parameter: the starting batch index. For example, to ru
 ```
 @inproceedings{CHIP,
   title={{CHIP: Efficient Homomorphic Encryption-Based CNN Batch Inference Using Channel-Interleaved Packing with Small Rotation Key Set}},
-  author={ Wang Huan-Chih and Wu Ja-Ling},
+  author={ Wang, Huan-Chih and Wu, Ja-Ling},
   booktitle={IEEE CSF},
   year={2026}
 }
